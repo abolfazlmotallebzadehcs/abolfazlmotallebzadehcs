@@ -77,5 +77,6 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 ---
 
 ---
-### 💡 Daily Programming Motivation
-<!-- QUOTE_START -->جمله اینجا نمایش داده می‌شود<!-- QUOTE_END -->
+### 💡 Daily Programming Quote
+<!-- QUOTE_START -->
+<!-- QUOTE_END -->
