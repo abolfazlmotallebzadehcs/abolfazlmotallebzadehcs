@@ -26,7 +26,7 @@ Here are some of my favorite projects that showcase my frontend skills:
 #### 🍔 [Grid Project (McDonald's Theme)](https://github.com/abolfazlmotallebzadehcs/grid-project)
 * **Description:** A modern, fully responsive Food Ordering Landing Page built with pure HTML5 and CSS3. Features a customized McDonald's theme and a clever CSS-only hamburger menu.
 * **Tech Stack:** `HTML5` | `CSS3` | `CSS Grid` | `Flexbox`
-* 🔗 [Live Preview](لینک_زنده_پروژه_گریدر_اینجا_بگذار)
+* 🔗 [Live Preview](https://abolfazlmotallebzadehcs.github.io/grid-project/)
 
 #### 🔒 [Glassmorphism Login Form](https://github.com/abolfazlmotallebzadehcs/css-mini-project-1)
 * **Description:** A sleek, high-end Glassmorphism Login Form featuring a modern dark theme, vibrant background gradients, and clean, scalable code written using strict BEM methodology.
