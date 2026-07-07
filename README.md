@@ -75,7 +75,7 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 📧 **Email:** abolfazlmotallebzadehcs@gmail.com  
 
 ---
-
+ 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&font=syne&cache=false" alt="Programming Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&font=syne&cache=false&r=12345" alt="Programming Quotes" />
 </p>
