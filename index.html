@@ -1,1 +1,19 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: sans-serif; background: #1a1a1a; color: #fff; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        #quote { padding: 20px; text-align: center; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+    <div id="quote">Loading...</div>
+    <script>
+        fetch('https://api.quotable.io/random?tags=technology')
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById('quote').innerHTML = `"${data.content}"<br><br>— <b>${data.author}</b>`;
+            });
+    </script>
+</body>
+</html>
