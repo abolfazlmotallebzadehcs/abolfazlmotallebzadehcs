@@ -78,5 +78,5 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 
 ### 💡 Programming Quote
 <p align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=dracula&font=syne" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Programming Quote" />
 </p>
