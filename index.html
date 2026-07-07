@@ -9,12 +9,12 @@
 <body>
     <div id="quote">Loading...</div>
     <script>
-        fetch('https://favqs.com/api/qotd')
+        fetch('https://api.quotable.io/random?tags=technology')
             .then(res => res.json())
             .then(data => {
-                document.getElementById('quote').innerHTML = `"${data.quote.body}"<br><br>— <b>${data.quote.author}</b>`;
+                document.getElementById('quote').innerHTML = `"${data.content}"<br><br>— <b>${data.author}</b>`;
             })
-            .catch(() => { document.getElementById('quote').innerText = "کدنویسی، هنرِ تبدیلِ فکر به واقعیت است."; });
+            .catch(() => { document.getElementById('quote').innerText = "Code is like humor. When you have to explain it, it’s bad."; });
     </script>
 </body>
 </html>
