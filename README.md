@@ -35,7 +35,7 @@ Here are some of my favorite projects that showcase my frontend skills:
 
 #### 💼 [Flexbox Business Landing Page](https://github.com/abolfazlmotallebzadehcs/flexbox-project)
 * **Description:** A professional, multi-section business landing page featuring a fluid responsive design and an interactive mobile menu built with pure JavaScript.
-* **Tech Stack:** `HTML5` | `CSS3` | `Flexbox` | `Vanilla JavaScript`
+* **Tech Stack:** `HTML5` | `CSS3` | `Flexbox` | `Vanilla JS`
 * 🔗 [Live Preview](https://abolfazlmotallebzadehcs.github.io/flexbox-project/)
 
 ---
