@@ -2,18 +2,19 @@
 <html>
 <head>
     <style>
-        body { font-family: sans-serif; background: #1a1a1a; color: #fff; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
-        #quote { padding: 20px; text-align: center; font-size: 1.2em; }
+        body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        #quote { padding: 15px; text-align: center; font-size: 1.1em; line-height: 1.4; }
     </style>
 </head>
 <body>
     <div id="quote">Loading...</div>
     <script>
-        fetch('https://api.quotable.io/random?tags=technology')
+        fetch('https://favqs.com/api/qotd')
             .then(res => res.json())
             .then(data => {
-                document.getElementById('quote').innerHTML = `"${data.content}"<br><br>— <b>${data.author}</b>`;
-            });
+                document.getElementById('quote').innerHTML = `"${data.quote.body}"<br><br>— <b>${data.quote.author}</b>`;
+            })
+            .catch(() => { document.getElementById('quote').innerText = "کدنویسی، هنرِ تبدیلِ فکر به واقعیت است."; });
     </script>
 </body>
 </html>
