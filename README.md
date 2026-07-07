@@ -79,5 +79,5 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 ---
 ### 💡 Daily Programming Quote
 <!-- QUOTE_START -->
-"Simplicity is the soul of efficiency." — Austin Freeman
+"Talk is cheap. Show me the code." — Linus Torvalds
 <!-- QUOTE_END -->
