@@ -79,5 +79,9 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 ---
 ### 💡 Daily Programming Quote
 <!-- QUOTE_START -->
-"Talk is cheap. Show me the code." — Linus Torvalds
 <!-- QUOTE_END -->
+
+<br>
+<a href="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/actions/workflows/update-quote.yml">
+  <img src="https://img.shields.io/badge/Refresh_Quote-Click_Here-brightgreen?style=flat&logo=github" alt="Refresh Quote">
+</a>
