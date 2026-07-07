@@ -65,7 +65,7 @@ Here are some of my favorite projects that showcase my frontend skills:
 ### 🤝 Let's Connect!
 If you're looking for a dedicated, fast-learning Junior Developer to join your team, or just want to talk about frontend development, let's chat!
 
-💬 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/abolfazl-motallebzadeh-a30575413)  
+💬 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/abolfazlmotallebzadehcs)  
 📧 **Email:** abolfazlmotallebzadehcs@gmail.com  
 
 ---
