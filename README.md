@@ -76,7 +76,6 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 
 ---
 
-### 💡 Programming Quote
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=dracula" alt="Programming Quote" />
-</p>
+---
+### 💡 Daily Programming Motivation
+[👉 Click here to see a random programming quote](https://abolfazlmotallebzadehcs.github.io/abolfazlmotallebzadehcs/)
