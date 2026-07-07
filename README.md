@@ -31,7 +31,7 @@ Here are some of my favorite projects that showcase my frontend skills:
 #### 🔒 [Glassmorphism Login Form](https://github.com/abolfazlmotallebzadehcs/css-mini-project-1)
 * **Description:** A sleek, high-end Glassmorphism Login Form featuring a modern dark theme, vibrant background gradients, and clean, scalable code written using strict BEM methodology.
 * **Tech Stack:** `HTML5` | `CSS3` | `BEM Methodology` | `UI/UX Design`
-* 🔗 [Live Preview](لینک_زنده_پروژه_گلاسمورفیسم_را_اینجا_بگذار)
+* 🔗 [Live Preview](https://abolfazlmotallebzadehcs.github.io/css-mini-project-1/)
 
 #### 💼 [Flexbox Business Landing Page](https://github.com/abolfazlmotallebzadehcs/flexbox-project)
 * **Description:** A professional, multi-section business landing page featuring a fluid responsive design and an interactive mobile menu built with pure JavaScript.
