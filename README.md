@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&lines=Engineering+the+future+with+purpose;Debugging+life+one+commit+at+a+time;Solving+the+world+one+bug+at+a+time;Everything+starts+with+a+single+line+of+code;Welcome+to+my+Digital+Space;Building+the+Future+with+Code;Love+of+tough+challenges+and+big+projects;Dreaming+big+and+coding+hard;Open+for+new+opportunities;I+code+therefore+I+am;Programming+is+the+art+of+problem+solving;Let's+Connect+and+Build+Together" alt="Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&lines=A+developer+who+never+stops+asking+why;Engineering+the+future+with+purpose;Debugging+life+one+commit+at+a+time;Solving+the+world+one+bug+at+a+time;Welcome+to+my+Digital+Space;Building+the+Future+with+Code;Love+of+tough+challenges+and+big+projects;Dreaming+big+and+coding+hard;Open+for+new+opportunities;I+code+therefore+I+am;Programming+is+the+art+of+problem+solving;Let's+Connect+and+Build+Together" alt="Typing">
 </p>
 <p align="center">
   <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
