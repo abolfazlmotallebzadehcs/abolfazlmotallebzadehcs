@@ -75,6 +75,7 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 📧 **Email:** abolfazlmotallebzadehcs@gmail.com  
 
 ---
+
 <p align="center">
-  <i>“The best way to predict the future is to invent it.”</i> ✨
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&font=syne" alt="Programming Quotes" />
 </p>
