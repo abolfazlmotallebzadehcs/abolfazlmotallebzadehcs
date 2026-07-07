@@ -1,20 +1,21 @@
 name: Update Quote
 on:
   schedule:
-    - cron: '0 0 * * *' # هر ۲۴ ساعت یک بار آپدیت می‌شود
-  workflow_dispatch: # یا هر وقت دکمه Run را بزنی آپدیت می‌شود
+    - cron: '0 0 * * *' # هر روز ساعت 12 شب آپدیت می‌شود
+  workflow_dispatch: # برای اینکه خودتان دستی هم بتوانید آپدیت کنید
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - name: Update Quote
         run: |
-          # در اینجا یک جمله رندوم انتخاب و در README جایگزین می‌شود
-          quotes=("Code is poetry." "Talk is cheap. Show me the code." "First, solve the problem. Then, write the code." "Simplicity is the soul of efficiency.")
-          quote=${quotes[$RANDOM % ${#quotes[@]}]}
-          sed -i "s|<!-- QUOTE_START -->.*<!-- QUOTE_END -->|<!-- QUOTE_START -->$quote<!-- QUOTE_END -->|g" README.md
+          quotes=('"Code is like humor. When you have to explain it, it’s bad." — Cory House' '"First, solve the problem. Then, write the code." — John Johnson' '"Simplicity is the soul of efficiency." — Austin Freeman' '"Talk is cheap. Show me the code." — Linus Torvalds' '"Programming is not about typing, it is about thinking." — Rich Hickey')
+          new_quote=${quotes[$RANDOM % ${#quotes[@]}]}
+          sed -i "s|<!-- QUOTE_START -->.*<!-- QUOTE_END -->|<!-- QUOTE_START -->\n$new_quote\n<!-- QUOTE_END -->|g" README.md
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
