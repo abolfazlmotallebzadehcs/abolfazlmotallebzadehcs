@@ -76,7 +76,7 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 
 ---
 
-### 💡 Programming Quote of the Day
+### 💡 Programming Quote
 <p align="center">
-  <iframe src="https://abolfazlmotallebzadehcs.github.io/abolfazlmotallebzadehcs/" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+  <img src="https://readme-quotes.vercel.app/api?theme=dracula&font=syne" alt="Programming Quote" />
 </p>
