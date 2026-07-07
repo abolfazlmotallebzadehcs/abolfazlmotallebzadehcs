@@ -78,4 +78,4 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 
 ---
 ### 💡 Daily Programming Motivation
-[👉 Click here to see a random programming quote][![Quote](https://img.shields.io/badge/Daily-Programming_Quote-blue?style=for-the-badge&logo=javascript)](https://abolfazlmotallebzadehcs.github.io/abolfazlmotallebzadehcs/)
+<!-- QUOTE_START -->جمله اینجا نمایش داده می‌شود<!-- QUOTE_END -->
