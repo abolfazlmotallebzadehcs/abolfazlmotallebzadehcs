@@ -77,5 +77,5 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&font=syne" alt="Programming Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&font=syne&cache=false" alt="Programming Quotes" />
 </p>
