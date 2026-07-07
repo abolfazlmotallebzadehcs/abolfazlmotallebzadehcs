@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&lines=Engineering+the+future+with+purpose;Debugging+life+one+commit+at+a+time;Solving+the+world+one+bug+at+a+time;verything+starts+with+a+single+line+of+code;Welcome+to+my+Digital+Space;Building+the+Future+with+Code;Lover+of+tough+challenges+and+big+projects;Dreaming+big+and+coding+hard;Open+for+new+opportunities;I+code+therefore+I+am;Programming+is+the+art+of+problem+solving;Let's+Connect+and+Build+Together" alt="Typing">
+</p>
+<p align="center">
   <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
@@ -76,12 +79,6 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 
 ---
 
----
-### 💡 Daily Programming Quote
-<!-- QUOTE_START -->
-<!-- QUOTE_END -->
-
-<br>
-<a href="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/actions">
-  <img src="https://img.shields.io/badge/Refresh_Quote-Click_Here-brightgreen?style=for-the-badge&logo=github" alt="Refresh Quote">
-</a>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Programming Joke" />
+</p>
