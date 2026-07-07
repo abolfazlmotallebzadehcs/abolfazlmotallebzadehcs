@@ -1,1 +1,22 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <style>
+        body { font-family: sans-serif; background: #0d1117; color: #c9d1d9; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        #quote { padding: 20px; text-align: center; font-size: 1.1em; line-height: 1.5; }
+    </style>
+</head>
+<body>
+    <div id="quote">Loading...</div>
+    <script>
+        fetch(`https://api.quotable.io/random?tags=technology&t=${new Date().getTime()}`)
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById('quote').innerHTML = `"${data.content}"<br><br>— <b>${data.author}</b>`;
+            });
+    </script>
+</body>
+</html>
