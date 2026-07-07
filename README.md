@@ -75,7 +75,8 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 📧 **Email:** abolfazlmotallebzadehcs@gmail.com  
 
 ---
- 
+
+### 💡 Programming Quote of the Day
 <p align="center">
   <iframe src="https://abolfazlmotallebzadehcs.github.io/abolfazlmotallebzadehcs/" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
 </p>
