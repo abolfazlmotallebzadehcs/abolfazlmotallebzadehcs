@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 ---
+
 # Hi there, I'm Abolfazl. 👋 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-brightgreen?style=for-the-badge" alt="Status" />
