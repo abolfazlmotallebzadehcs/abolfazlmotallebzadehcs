@@ -24,9 +24,10 @@ Welcome to my GitHub space! I am a **Self-Taught Junior Frontend Developer** wit
 ### ✨ About Me
 - 💻 Crafting modern layouts with semantic HTML5 and clean CSS3 architecture.
 - 📐 Following strict **BEM methodology**, **Flexbox**, and **CSS Grid** for scalable designs.
+- 🎨 Bridging design and code by translating **Figma** prototypes into pixel-perfect interfaces.
 - 🛠️ Utilizing **Git & GitHub** for efficient version control and clean code management.
 - 🧠 Possess strong programming logic thanks to my experience with **Python** and **C++**.
-- 📚 Currently diving deep into **Advanced JavaScript** and mastering **Tailwind CSS**.
+- 📚 Currently diving deep into **Advanced JavaScript**, mastering **Tailwind CSS**, and building interactive UIs with **React**.
 
 ---
 
@@ -66,6 +67,7 @@ Here are some of my favorite projects that showcase my frontend skills:
 
 **Currently Learning:**<br>
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
