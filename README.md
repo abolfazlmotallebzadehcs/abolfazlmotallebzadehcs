@@ -26,7 +26,7 @@ Welcome to my GitHub space! I am a **Self-Taught Junior Frontend Developer** wit
 - 📐 Following strict **BEM methodology**, **Flexbox**, and **CSS Grid** for scalable designs.
 - 🎨 Bridging design and code by translating **Figma** prototypes into pixel-perfect interfaces.
 - 🛠️ Utilizing **Git & GitHub** for efficient version control and clean code management.
-- 🧠 Possess strong programming logic thanks to my experience with **Python** and **C++**.
+- 🧠 Possess strong programming logic thanks to my experience with **Python**.
 - 📚 Currently diving deep into **Advanced JavaScript**, mastering **Tailwind CSS**, and building interactive UIs with **React**.
 
 ---
@@ -57,16 +57,15 @@ Here are some of my favorite projects that showcase my frontend skills:
 **Core Frontend & Tools:**<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-E3C800?style=for-the-badge&logo=javascript&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-E3C800?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-D13438?style=for-the-badge&logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Foundational Skills & Other Languages:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Currently Learning:**<br>
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
