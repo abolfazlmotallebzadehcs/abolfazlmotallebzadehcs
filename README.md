@@ -84,7 +84,7 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<a href="https://t.me/abomot">
+<a href="https://t.me/abolfazlmotallebzadehcs">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
