@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/main/image_2026-07-07_17-19-24.png" alt="My Image" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&lines=A+developer+who+never+stops+asking+why;Engineering+the+future+with+purpose;Debugging+life+one+commit+at+a+time;Solving+the+world+one+bug+at+a+time;Welcome+to+my+Digital+Space;Building+the+Future+with+Code;Love+of+tough+challenges+and+big+projects;Dreaming+big+and+coding+hard;Open+for+new+opportunities;I+code+therefore+I+am;Programming+is+the+art+of+problem+solving;Let's+Connect+and+Build+Together" alt="Typing">
-</p>
-<p align="center">
-  <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 # Hi there, I'm Abolfazl. 👋 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-brightgreen?style=for-the-badge" alt="Status" />
@@ -28,6 +16,24 @@ Welcome to my GitHub space! I am a **Self-Taught Junior Frontend Developer** wit
 - 🛠️ Utilizing **Git & GitHub** for efficient version control and clean code management.
 - 🧠 Possess strong programming logic thanks to my experience with **Python**.
 - 📚 Currently diving deep into **Advanced JavaScript**, mastering **Tailwind CSS**, and building interactive UIs with **React**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Core Frontend & Tools:**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-E3C800?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D13438?style=for-the-badge&logo=git&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Foundational Skills & Other Languages:**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+**Currently Learning:**<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
@@ -52,29 +58,14 @@ Here are some of my favorite projects that showcase my frontend skills:
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Core Frontend & Tools:**<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-E3C800?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D13438?style=for-the-badge&logo=git&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Foundational Skills & Other Languages:**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-**Currently Learning:**<br>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abolfazlmotallebzadehcs&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" /><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abolfazlmotallebzadehcs&theme=tokyonight" alt="GitHub Top Languages" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -92,5 +83,8 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Programming Joke" />
+  <img src="https://raw.githubusercontent.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/main/image_2026-07-07_17-19-24.png" alt="My Image" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&lines=A+developer+who+never+stops+asking+why;Engineering+the+future+with+purpose;Debugging+life+one+commit+at+a+time;Solving+the+world+one+bug+at+a+time;Welcome+to+my+Digital+Space;Building+the+Future+with+Code;Love+of+tough+challenges+and+big+projects;Dreaming+big+and+coding+hard;Open+for+new+opportunities;I+code+therefore+I+am;Programming+is+the+art+of+problem+solving;Let's+Connect+and+Build+Together" alt="Typing">
 </p>
