@@ -5,7 +5,8 @@
 
 Welcome to my GitHub space! I am a **Self-Taught Junior Frontend Developer** with a strong foundational background in computer science and programming logic. I love transforming ideas into clean, well-structured, and pixel-perfect web interfaces.
 
-🎯 **Current Goal:** I am actively seeking an **Internship** or a **Junior Frontend Developer** role where I can contribute, learn, and grow with a team.
+🎯 **Current Goal:**<br>
+I am actively seeking an **Internship** or a **Junior Frontend Developer** role where I can contribute, learn, and grow with a team.
 
 ---
 
