@@ -74,8 +74,17 @@ Here are some of my favorite projects that showcase my frontend skills:
 ### 🤝 Let's Connect!
 If you're looking for a dedicated, fast-learning Junior Developer to join your team, or just want to talk about frontend development, let's chat!
 
-💬 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/abolfazlmotallebzadehcs)  
-📧 **Email:** abolfazlmotallebzadehcs@gmail.com 
+<p align="left">
+  <a href="https://www.linkedin.com/in/abolfazlmotallebzadehcs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abolfazlmotallebzadehcs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://t.me/abomot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhYTc3cmlqeHJ4NG1rNjh0NTV5amQ1YWNpOTIyeDR3cXNnNzd4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t6lGyl8QLylqFQJkiA/giphy.gif" width="600" alt="Animation" />
