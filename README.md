@@ -74,6 +74,8 @@ Here are some of my favorite projects that showcase my frontend skills:
 ### 🤝 Let's Connect!
 If you're looking for a dedicated, fast-learning Junior Developer to join your team, or just want to talk about frontend development, let's chat!
 
+<br>
+
 <a href="https://www.linkedin.com/in/abolfazlmotallebzadehcs">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -85,6 +87,8 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 <a href="https://t.me/abomot">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
+
+<br><br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhYTc3cmlqeHJ4NG1rNjh0NTV5amQ1YWNpOTIyeDR3cXNnNzd4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t6lGyl8QLylqFQJkiA/giphy.gif" width="600" alt="Animation" />
