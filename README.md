@@ -100,6 +100,7 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 <p align="center">
   <img src="https://raw.githubusercontent.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/main/image_2026-07-07_17-19-24.png" alt="My Image" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=500&lines=A+developer+who+never+stops+asking+why;Engineering+the+future+with+purpose;Debugging+life+one+commit+at+a+time;Solving+the+world+one+bug+at+a+time;Welcome+to+my+Digital+Space;Building+the+Future+with+Code;Love+of+tough+challenges+and+big+projects;Dreaming+big+and+coding+hard;Open+for+new+opportunities;I+code+therefore+I+am;Programming+is+the+art+of+problem+solving;Let's+Connect+and+Build+Together" alt="Typing">
 </p>
