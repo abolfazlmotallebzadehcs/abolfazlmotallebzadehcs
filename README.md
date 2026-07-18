@@ -63,7 +63,7 @@ Here are some of my favorite projects that showcase my frontend skills:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abolfazlmotallebzadehcs&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=abolfazlmotallebzadehcs&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
 </p>
 <p align="center">
   <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
