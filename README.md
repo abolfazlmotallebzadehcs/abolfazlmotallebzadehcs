@@ -45,6 +45,11 @@ I am actively seeking an **Internship** or a **Junior Frontend Developer** role 
 
 Here are some of my favorite projects that showcase my frontend skills:
 
+#### 🌤️ [Weather App](https://github.com/abolfazlmotallebzadehcs/weather-app)
+* **Description:** a modern, fully responsive Weather Application built with pure JavaScript (DOM manipulation) and Tailwind CSS. Features interactive city search, local weather data management, and clean, scalable code.
+* **Tech Stack:** `HTML5` | `Tailwind CSS` | `JavaScript` | `DOM Manipulation`
+* 🔗 [Live Preview](https://abolfazlmotallebzadehcs.github.io/weather-app/)
+
 #### 🍔 [Grid Project (McDonald's Theme)](https://github.com/abolfazlmotallebzadehcs/grid-project)
 * **Description:** A modern, fully responsive Food Ordering Landing Page built with pure HTML5 and CSS3. Features a customized McDonald's theme and a clever CSS-only hamburger menu.
 * **Tech Stack:** `HTML5` | `CSS3` | `CSS Grid` | `Flexbox`
