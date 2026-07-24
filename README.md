@@ -16,7 +16,7 @@ I am actively seeking an **Internship** or a **Junior Frontend Developer** role 
 - 🎨 Bridging design and code by translating **Figma** and **Adobe XD** prototypes into pixel-perfect interfaces.
 - 🛠️ Utilizing **Git**, **GitHub**, and **Npm** for efficient version control, dependency management, and clean code workflow.
 - 🧠 Possess strong programming logic thanks to my experience with **Python**.
-- 📚 Currently diving deep into **Advanced JavaScript**, mastering **Tailwind CSS**, building interactive UIs with **React**, and leveling up with **TypeScript**.
+- 📚 Currently diving deep into **Advanced JavaScript**, mastering **Tailwind CSS**, building interactive UIs with **React**.
 
 ---
 
