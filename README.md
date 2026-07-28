@@ -49,11 +49,6 @@ Here are some of my favorite projects that showcase my frontend skills:
 * **Tech Stack:** `HTML5` | `CSS3` | `CSS Grid` | `Flexbox`
 * 🔗 [Live Preview](https://abolfazlmotallebzadehcs.github.io/grid-project/)
 
-#### 🔒 [Glassmorphism Login Form](https://github.com/abolfazlmotallebzadehcs/css-mini-project-1)
-* **Description:** a sleek, high-end Glassmorphism Login Form featuring a modern dark theme, vibrant background gradients, and clean, scalable code written using strict BEM methodology.
-* **Tech Stack:** `HTML5` | `CSS3` | `BEM Methodology` | `UI/UX Design`
-* 🔗 [Live Preview](https://abolfazlmotallebzadehcs.github.io/css-mini-project-1/)
-
 ---
 
 ### 📊 GitHub Stats
