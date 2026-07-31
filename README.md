@@ -74,9 +74,9 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 ### 📊 GitHub Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=abolfazlmotallebzadehcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="285" height="150"/>
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=abolfazlmotallebzadehcs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="285" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=abolfazlmotallebzadehcs&theme=tokyonight&hide_border=true" alt="Streak Stats" width="285" height="150"/>
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=abolfazlmotallebzadehcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="265" height="150"/>
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=abolfazlmotallebzadehcs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="265" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=abolfazlmotallebzadehcs&theme=tokyonight&hide_border=true" alt="Streak Stats" width="265" height="150"/>
 </p>
 
 <p align="center">
