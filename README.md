@@ -1,10 +1,11 @@
 # Hi 👋, I'm Abolfazl Motallebzadeh  
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Crafting+Pixel-Perfect+Interfaces;Debugging+Life+One+Commit+at+a+Time;Engineering+with+Purpose+%26+Logic" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-38B2AC?style=for-the-badge&logoColor=white" alt="Status" />
   <img src="https://komarev.com/ghpvc/?username=abolfazlmotallebzadehcs&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>  
 
@@ -62,8 +63,8 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
         <li><b>Design Fidelity:</b> Custom McDonald's design system alignment with pixel-perfect component execution.</li>
       </ul>
       <p>
-        <a href="https://abolfazlmotallebzadehcs.github.io/grid-project/"><img src="https://img.shields.io/badge/Live_Demo-🚀-brightgreen?style=for-the-badge" /></a>
-        <a href="https://github.com/abolfazlmotallebzadehcs/grid-project"><img src="https://img.shields.io/badge/Source_Code-💻-blue?style=for-the-badge" /></a>
+        <a href="https://abolfazlmotallebzadehcs.github.io/grid-project/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
+        <a href="https://github.com/abolfazlmotallebzadehcs/grid-project"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
       </p>
     </td>
   </tr>
