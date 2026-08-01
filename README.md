@@ -72,24 +72,6 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
       </p>
     </td>
   </tr>
-</table>  
-
-<table>
-  <tr>
-    <td>
-      <h3>📝 To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)</h3>
-      <p>A feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
-      <ul>
-        <li><b>Data Persistence:</b> Built-in browser <code>localStorage</code> integration to save, load, and retain user tasks seamlessly.</li>
-        <li><b>Dynamic Workflows:</b> Interactive modal creation system along with instant filtering capabilities for all, completed, and uncompleted tasks.</li>
-        <li><b>Task Categorization:</b> Advanced status management supporting multiple priority levels such as default, important, and very important.</li>
-      </ul>
-      <p>
-        <a href="https://abolfazlmotallebzadehcs.github.io/js-todolist/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
-        <a href="https://github.com/abolfazlmotallebzadehcs/js-todolist"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
