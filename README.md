@@ -76,7 +76,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 
 ---
 
-### 📊 GitHub Metrics & Activity
+### 📊 THE ACCOUNTABILITY MIRROR (STATS & ACTIVITY)
 
 <p align="center">
   <img src="https://github-readme-stats-two-nu.vercel.app/api?username=abolfazlmotallebzadehcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="150"/>
