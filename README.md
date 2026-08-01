@@ -1,5 +1,10 @@
 # Hi 👋, I'm Abolfazl Motallebzadeh  
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/main/header.png" alt="Profile Banner"  width = "100%"/>
+</p>  
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Crafting+Pixel-Perfect+Interfaces;Debugging+Life+One+Commit+at+a+Time;Engineering+with+Purpose+%26+Logic" alt="Typing SVG" /></a>
 </p>
@@ -106,5 +111,3 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhYTc3cmlqeHJ4NG1rNjh0NTV5amQ1YWNpOTIyeDR3cXNnNzd4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t6lGyl8QLylqFQJkiA/giphy.gif" width="600" alt="Animation" />
 </p>
-
----
