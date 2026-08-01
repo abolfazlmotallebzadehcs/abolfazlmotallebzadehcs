@@ -6,7 +6,7 @@
 </p>  
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Seeking+Internship;Seeking+Junior+Roles;Crafting+Pixel-Perfect+Interfaces;Debugging+Life+One+Commit+at+a+Time;Engineering+with+Purpose+%26+Logic" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Seeking+Internship+and+Junior+Roles;Crafting+Pixel-Perfect+Interfaces;Debugging+Life+One+Commit+at+a+Time;Engineering+with+Purpose+%26+Logic" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
