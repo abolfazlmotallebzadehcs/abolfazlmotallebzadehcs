@@ -54,21 +54,39 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 
 ---
 
-### 📂 Featured Project
+### 📂 Featured Practice Projects
 
 <table>
   <tr>
     <td>
-      <h3>🍔 Grid Project — McDonald's Themed Landing Page</h3>
-      <p>A modern, fully responsive Food Ordering Landing Page built with pure HTML5 and CSS3, focused on performance and layout precision.</p>
+      <h3>🍔 Grid Project — McDonald's Themed Landing Page (Practice Project)</h3>
+      <p>A modern, fully responsive Food Ordering Landing Page built as a practice project with pure HTML5 and CSS3, focused on performance and layout precision.</p>
       <ul>
         <li><b>Layout Architecture:</b> Powered by CSS Grid (2D) and Flexbox for seamless scaling across devices.</li>
-        <li><b>Pure CSS UI Mechanics:</b> Features an interactive mobile hamburger navigation implemented with zero JavaScript overhead.</li>
-        <li><b>Design Fidelity:</b> Custom McDonald's design system alignment with pixel-perfect component execution.</li>
+        <li><b>Pure CSS UI Mechanics:</b> Features an interactive mobile hamburger navigation implemented with zero JavaScript overhead using native CSS state toggles.</li>
+        <li><b>Design Fidelity:</b> Custom design system alignment with pixel-perfect component execution.</li>
       </ul>
       <p>
         <a href="https://abolfazlmotallebzadehcs.github.io/grid-project/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
         <a href="https://github.com/abolfazlmotallebzadehcs/grid-project"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
+      </p>
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <td>
+      <h3>📝 To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)</h3>
+      <p>A feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
+      <ul>
+        <li><b>Data Persistence:</b> Built-in browser <code>localStorage</code> integration to save, load, and retain user tasks seamlessly.</li>
+        <li><b>Dynamic Workflows:</b> Interactive modal creation system along with instant filtering capabilities for all, completed, and uncompleted tasks.</li>
+        <li><b>Task Categorization:</b> Advanced status management supporting multiple priority levels such as default, important, and very important.</li>
+      </ul>
+      <p>
+        <a href="https://abolfazlmotallebzadehcs.github.io/js-todolist/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
+        <a href="https://github.com/abolfazlmotallebzadehcs/js-todolist"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
       </p>
     </td>
   </tr>
