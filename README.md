@@ -108,7 +108,3 @@ If you're looking for a dedicated, fast-learning Junior Developer to join your t
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/main/image_2026-07-07_17-19-24.png" alt="Profile Banner" />
-</p>
