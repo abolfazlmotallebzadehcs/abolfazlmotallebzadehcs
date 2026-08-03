@@ -1,7 +1,7 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="40"
-         width="40" /> , I'm Abolfazl.</h1>  
+         height="30"
+         width="30" /> , I'm Abolfazl.</h1>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/main/header.png" alt="Profile Banner"  width = "100%"/>
