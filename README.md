@@ -23,16 +23,6 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 
 ---
 
-### 🧠 Core Competencies & Architecture
-* 📐 **Semantic Web & Layouts:** Expertise in semantic HTML5, modern CSS3 layout engines (**Flexbox**, **CSS Grid**), and mobile-first responsive web design.
-* ⚡ **Modern JavaScript & Utility CSS:** Fully proficient in **JavaScript (ES6+)** for dynamic frontend logic and **Tailwind CSS** for rapid, production-ready UI development.
-* 🏗️ **Architecture & Scalability:** Adhering strictly to **BEM methodology** for clean, maintainable, and scalable CSS structure.
-* 🎨 **Design Systems & Precision:** Translating **Figma** and **Adobe XD** prototypes into production-grade UI components with zero design drift.
-* 🛠️ **Logic & Workflow:** Solid CS foundations in **Python**, utilizing **Git/GitHub** for structured version control and **npm** for package management.
-* 🚀 **Active Stack Evolution:** Deep-diving into **React** and **TypeScript** to build complex, state-driven single-page applications.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Frontend Core:**  
@@ -54,6 +44,16 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 **Active Focus & Learning:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 🧠 Core Competencies & Architecture
+* 📐 **Semantic Web & Layouts:** Expertise in semantic HTML5, modern CSS3 layout engines (**Flexbox**, **CSS Grid**), and mobile-first responsive web design.
+* ⚡ **Modern JavaScript & Utility CSS:** Fully proficient in **JavaScript (ES6+)** for dynamic frontend logic and **Tailwind CSS** for rapid, production-ready UI development.
+* 🏗️ **Architecture & Scalability:** Adhering strictly to **BEM methodology** for clean, maintainable, and scalable CSS structure.
+* 🎨 **Design Systems & Precision:** Translating **Figma** and **Adobe XD** prototypes into production-grade UI components with zero design drift.
+* 🛠️ **Logic & Workflow:** Solid CS foundations in **Python**, utilizing **Git/GitHub** for structured version control and **npm** for package management.
+* 🚀 **Active Stack Evolution:** Deep-diving into **React** and **TypeScript** to build complex, state-driven single-page applications.
 
 ---
 
