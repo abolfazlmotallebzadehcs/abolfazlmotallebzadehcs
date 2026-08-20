@@ -108,8 +108,8 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
         <li><b>Dynamic State & UI Rendering:</b> Built with pure JavaScript DOM manipulation for live track detail updates, album cover rendering, and favorite status toggles.</li>
       </ul>
       <p>
-        <a href="https://abolfazlmotallebzadehcs.github.io/js-music-player/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
-        <a href="https://github.com/abolfazlmotallebzadehcs/js-music-player"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
+        <a href="https://abolfazlmotallebzadehcs.github.io/js-music-player-pro/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
+        <a href="https://github.com/abolfazlmotallebzadehcs/js-music-player-pro"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
       </p>
     </td>
   </tr>
