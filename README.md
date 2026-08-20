@@ -103,9 +103,9 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
       <h3>🎵 Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)</h3>
       <p>A modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
       <ul>
-        <li><b>Custom Audio Engine:</b> Complete playback control including Play/Pause, Seek Bar navigation, and Volume/Mute toggling powered by native HTML5 Audio API[cite: 4].</li>
-        <li><b>Interactive Playlist System:</b> Real-time dynamic bookmarking feature allowing users to add, remove, and manage personal playlists seamlessly[cite: 4].</li>
-        <li><b>Dynamic State & UI Rendering:</b> Built with pure JavaScript DOM manipulation for live track detail updates, album cover rendering, and favorite status toggles[cite: 4].</li>
+        <li><b>Custom Audio Engine:</b> Complete playback control including Play/Pause, Seek Bar navigation, and Volume/Mute toggling powered by native HTML5 Audio API.</li>
+        <li><b>Interactive Playlist System:</b> Real-time dynamic bookmarking feature allowing users to add, remove, and manage personal playlists seamlessly.</li>
+        <li><b>Dynamic State & UI Rendering:</b> Built with pure JavaScript DOM manipulation for live track detail updates, album cover rendering, and favorite status toggles.</li>
       </ul>
       <p>
         <a href="https://abolfazlmotallebzadehcs.github.io/js-music-player/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
