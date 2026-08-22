@@ -25,20 +25,22 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend Core:**  
+**Frontend Development:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Tools & Asset Inspection:**  
+**Build Tools & Workflow:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
+
+**Design & API Testing:**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Foundational Skills & Logic:**  
@@ -50,13 +52,20 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 
 ---
 
-### 🧠 Core Competencies & Architecture
-* 📐 **Semantic Web & Layouts:** Expertise in semantic HTML5, modern CSS3 layout engines (**Flexbox**, **CSS Grid**), and mobile-first responsive web design.
-* ⚡ **Modern JavaScript & Utility CSS:** Fully proficient in **JavaScript (ES6+)** for dynamic frontend logic and **Tailwind CSS** for rapid, production-ready UI development.
-* 🏗️ **Architecture & Scalability:** Adhering strictly to **BEM methodology** for clean, maintainable, and scalable CSS structure.
-* 🎨 **Design Systems & Precision:** Translating **Figma** and **Adobe XD** prototypes into production-grade UI components with zero design drift.
-* 🛠️ **Logic & Workflow:** Solid CS foundations in **Python**, utilizing **Git/GitHub** for structured version control and **npm** for package management.
-* 🚀 **Active Stack Evolution:** Deep-diving into **React** and **TypeScript** to build complex, state-driven single-page applications.
+### 🧠 Core Competencies & Workflow
+
+* 📐 **Semantic Web & Responsive Layouts:**  
+   Writing clean, accessible HTML5 and building responsive, mobile-first layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS**.
+* ⚡ **Core JavaScript & Web Logic:**  
+  Proficient in **JavaScript (ES6+)**, asynchronous logic, DOM handling, and modular project structures.
+* 🏗️ **Maintainable CSS Architecture:**  
+  Applying **BEM methodology** to keep styling scalable, clean, and easy to maintain.
+* 🎨 **Design-to-Code Precision:**  
+  Translating **Figma** and **Adobe XD** design prototypes into accurate, interactive UI components.
+* ⚙️ **Modern Tooling & Version Control:**  
+  Managing dependencies with **npm**, using **Vite** for fast local development, and versioning code with **Git/GitHub**.
+* 🚀 **Active Focus:**  
+  Currently mastering **React.js** (component architecture, JSX, props, and state management) to build dynamic single-page applications.
 
 ---
 
