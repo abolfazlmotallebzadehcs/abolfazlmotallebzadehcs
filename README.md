@@ -29,7 +29,6 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Build Tools & Workflow:**  
@@ -50,6 +49,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 **Active Focus & Learning:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -58,16 +58,16 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 * 📐 **Semantic Web & Responsive Layouts:**  
    Writing clean, accessible HTML5 and building responsive, mobile-first layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS**.
 * ⚡ **Core JavaScript & Web Logic:**  
-  Proficient in **JavaScript (ES6+)**, asynchronous logic, DOM handling, and modular project structures.
+  Solid foundation in **JavaScript (ES6+)**, asynchronous logic (Promises, Fetch/Async-Await), DOM manipulation, and modular project structures.
 * 🏗️ **Maintainable CSS Architecture:**  
-  Applying **BEM methodology** to keep styling scalable, clean, and easy to maintain.
+  Applying **BEM methodology** alongside utility-first CSS to keep styling scalable, clean, and structured.
 * 🎨 **Design-to-Code Precision:**  
   Translating **Figma** and **Adobe XD** design prototypes into accurate, interactive UI components.
-* ⚙️ **Modern Tooling & Version Control:**  
+* ⚙️ **Modern Tooling & Workflow:**  
   Managing dependencies with **npm**, using **Vite** for fast local development, and versioning code with **Git/GitHub**.
-* 🚀 **Active Focus:**  
-  Currently mastering **React.js** (component architecture, JSX, props, and state management) to build dynamic single-page applications.
-
+* 🚀 **Active Focus & Growth:**  
+  Deep-diving into **React.js** (component architecture, JSX, props, state management) while building a foundation in **TypeScript** and **Next.js**.
+  
 ---
 
 ### 📂 Featured Practice Projects
