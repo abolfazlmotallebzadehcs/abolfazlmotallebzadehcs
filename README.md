@@ -18,12 +18,12 @@
 
 ---
 
-### 🎯 Objective
+### Objective
 I am a **Frontend Developer** focused on building high-performance, pixel-perfect, and accessible web interfaces. Driven by strict programming logic and clean architecture, I am actively seeking a **Frontend Internship** or **Junior Frontend Developer** role to solve real-world problems in high-impact engineering teams.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend Development:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,29 +53,29 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 
 ---
 
-### 🧠 Core Competencies & Workflow
+### Core Competencies & Workflow
 
-* 📐 **Semantic Web & Responsive Layouts:**  
+* **Semantic Web & Responsive Layouts:**  
    Writing clean, accessible HTML5 and building responsive, mobile-first layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS**.
-* ⚡ **Core JavaScript & Web Logic:**  
+* **Core JavaScript & Web Logic:**  
   Solid foundation in **JavaScript (ES6+)**, asynchronous logic (Promises, Fetch/Async-Await), DOM manipulation, and modular project structures.
-* 🏗️ **Maintainable CSS Architecture:**  
+*  **Maintainable CSS Architecture:**  
   Applying **BEM methodology** alongside utility-first CSS to keep styling scalable, clean, and structured.
-* 🎨 **Design-to-Code Precision:**  
+* **Design-to-Code Precision:**  
   Translating **Figma** and **Adobe XD** design prototypes into accurate, interactive UI components.
-* ⚙️ **Modern Tooling & Workflow:**  
+* **Modern Tooling & Workflow:**  
   Managing dependencies with **npm**, using **Vite** for fast local development, and versioning code with **Git/GitHub**.
-* 🚀 **Active Focus & Growth:**  
+* **Active Focus & Growth:**  
   Deep-diving into **React.js** (component architecture, JSX, props, state management) while building a foundation in **TypeScript** and **Next.js**.
   
 ---
 
-### 📂 Featured Practice Projects
+### Featured Practice Projects
 
 <table>
   <tr>
     <td>
-      <h3>🍔 Grid Project — McDonald's Themed Landing Page (Practice Project)</h3>
+      <h3>Grid Project — McDonald's Themed Landing Page (Practice Project)</h3>
       <p>A modern, fully responsive Food Ordering Landing Page built as a practice project with pure HTML5 and CSS3, focused on performance and layout precision.</p>
       <ul>
         <li><b>Layout Architecture:</b> Powered by CSS Grid (2D) and Flexbox for seamless scaling across devices.</li>
@@ -93,7 +93,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 <table>
   <tr>
     <td>
-      <h3>📝 To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)</h3>
+      <h3>To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)</h3>
       <p>A feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
       <ul>
         <li><b>Data Persistence:</b> Built-in browser <code>localStorage</code> integration to save, load, and retain user tasks seamlessly.</li>
@@ -111,7 +111,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 <table>
   <tr>
     <td>
-      <h3>🎵 Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)</h3>
+      <h3>Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)</h3>
       <p>A modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
       <ul>
         <li><b>Custom Audio Engine:</b> Complete playback control including Play/Pause, Seek Bar navigation, and Volume/Mute toggling powered by native HTML5 Audio API.</li>
@@ -128,7 +128,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 
 ---
 
-### 📊 THE ACCOUNTABILITY MIRROR (Stats & Activity)
+### THE ACCOUNTABILITY MIRROR (Stats & Activity)
 
 <p align="center">
   <img src="https://github-readme-stats-two-nu.vercel.app/api?username=abolfazlmotallebzadehcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="150"/>
@@ -146,7 +146,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 If you're looking for a dedicated, fast-learning Junior Developer to join your team, or just want to talk about frontend development, let's chat!  
 <p align="center">
   <a href="https://www.linkedin.com/in/abolfazlmotallebzadehcs">
