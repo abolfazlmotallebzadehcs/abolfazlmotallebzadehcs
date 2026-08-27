@@ -75,15 +75,15 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 <table>
   <tr>
     <td>
-        <img src="https://img.shields.io/badge/Fast_Food-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" />
       <h3>
+        <img src="https://img.shields.io/badge/Fast_Food-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" /><br />
         Grid Project — McDonald's Themed Landing Page (Practice Project)
       </h3>
       <p>A modern, fully responsive Food Ordering Landing Page built as a practice project with pure HTML5 and CSS3, focused on performance and layout precision.</p>
       <ul>
         <li><b>Layout Architecture:</b> Powered by CSS Grid (2D) and Flexbox for seamless scaling across devices.</li>
         <li><b>Pure CSS UI Mechanics:</b> Features an interactive mobile hamburger navigation implemented with zero JavaScript overhead using native CSS state toggles.</li>
-        <li><b>Design Fidelity:</b> Custom design system alignment with pixel perfect component execution.</li>
+        <li><b>Design Fidelity:</b> Custom design system alignment with pixel-perfect component execution.</li>
       </ul>
       <p>
         <a href="https://abolfazlmotallebzadehcs.github.io/grid-project/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
@@ -96,8 +96,8 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 <table>
   <tr>
     <td>
-        <img src="https://img.shields.io/badge/Task_Manager-E14D2A?style=for-the-badge&logo=todoist&logoColor=white" />
       <h3>
+        <img src="https://img.shields.io/badge/Task_Manager-E14D2A?style=for-the-badge&logo=todoist&logoColor=white" /><br />
         To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)
       </h3>
       <p>A feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
@@ -117,8 +117,8 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 <table>
   <tr>
     <td>
-        <img src="https://img.shields.io/badge/Audio_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
       <h3>
+        <img src="https://img.shields.io/badge/Audio_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /><br />
         Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)
       </h3>
       <p>A modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
