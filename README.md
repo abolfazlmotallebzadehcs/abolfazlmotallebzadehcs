@@ -19,7 +19,7 @@
 ---
 
 ### Objective
-I am a **Frontend Developer** focused on building high performance, pixel perfect, and accessible web interfaces. Driven by strict programming logic and clean architecture, I am actively seeking a **Frontend Internship** or **Junior Frontend Developer** role to solve real-world problems in high impact engineering teams.
+I am a **Frontend Developer** focused on building high performance, pixel perfect, and accessible web interfaces. Driven by strict programming logic and clean architecture, I am actively seeking a **Frontend Internship** or **Junior Frontend Developer** role to solve real world problems in high impact engineering teams.
 
 ---
 
