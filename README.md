@@ -83,8 +83,8 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
         <li><b>Design Fidelity:</b> Custom design system alignment with pixel-perfect component execution.</li>
       </ul>
       <p>
-        <a href="https://abolfazlmotallebzadehcs.github.io/grid-project/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
-        <a href="https://github.com/abolfazlmotallebzadehcs/grid-project"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
+        <a href="https://abolfazlmotallebzadehcs.github.io/grid-project/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+        <a href="https://github.com/abolfazlmotallebzadehcs/grid-project"><img src="https://img.shields.io/badge/Source_Code-7aa2f7?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -101,8 +101,8 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
         <li><b>Task Categorization:</b> Advanced status management supporting multiple priority levels such as default, important, and very important.</li>
       </ul>
       <p>
-        <a href="https://abolfazlmotallebzadehcs.github.io/js-todolist/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
-        <a href="https://github.com/abolfazlmotallebzadehcs/js-todolist"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
+        <a href="https://abolfazlmotallebzadehcs.github.io/js-todolist/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+        <a href="https://github.com/abolfazlmotallebzadehcs/js-todolist"><img src="https://img.shields.io/badge/Source_Code-7aa2f7?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -119,8 +119,8 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
         <li><b>Dynamic State & UI Rendering:</b> Built with pure JavaScript DOM manipulation for live track detail updates, album cover rendering, and favorite status toggles.</li>
       </ul>
       <p>
-        <a href="https://abolfazlmotallebzadehcs.github.io/js-music-player-pro/"><img src="https://img.shields.io/badge/Live_Demo-🚀-38B2AC?style=for-the-badge" /></a>
-        <a href="https://github.com/abolfazlmotallebzadehcs/js-music-player-pro"><img src="https://img.shields.io/badge/Source_Code-💻-7aa2f7?style=for-the-badge" /></a>
+        <a href="https://abolfazlmotallebzadehcs.github.io/js-music-player-pro/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+        <a href="https://github.com/abolfazlmotallebzadehcs/js-music-player-pro"><img src="https://img.shields.io/badge/Source_Code-7aa2f7?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
