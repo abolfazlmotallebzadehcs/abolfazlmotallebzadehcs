@@ -61,7 +61,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   Solid foundation in **JavaScript (ES6+)**, asynchronous logic (Promises, Fetch/Async Await), DOM manipulation, and modular project structures.
 *  **Maintainable CSS Architecture:**  
   Applying **BEM methodology** alongside utility first CSS to keep styling scalable, clean, and structured.
-* **Design-to-Code Precision:**  
+* **Design to Code Precision:**  
   Translating **Figma** and **Adobe XD** design prototypes into accurate, interactive UI components.
 * **Modern Tooling & Workflow:**  
   Managing dependencies with **npm**, using **Vite** for fast local development, and versioning code with **Git/GitHub**.
@@ -98,11 +98,11 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
     <td>
       <h3>
         <img src="https://img.shields.io/badge/Task_Manager-E14D2A?style=for-the-badge&logo=todoist&logoColor=white" /><br />
-        To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)
+        Todo List Application — Vanilla JavaScript Task Manager (Practice Project)
       </h3>
-      <p>a feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
+      <p>a feature rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
       <ul>
-        <li><b>Data Persistence:</b> Built-in browser <code>localStorage</code> integration to save, load, and retain user tasks seamlessly.</li>
+        <li><b>Data Persistence:</b> Built in browser <code>localStorage</code> integration to save, load, and retain user tasks seamlessly.</li>
         <li><b>Dynamic Workflows:</b> Interactive modal creation system along with instant filtering capabilities for all, completed, and uncompleted tasks.</li>
         <li><b>Task Categorization:</b> Advanced status management supporting multiple priority levels such as default, important, and very important.</li>
       </ul>
@@ -124,7 +124,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
       <p>a modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
       <ul>
         <li><b>Custom Audio Engine:</b> Complete playback control including Play/Pause, Seek Bar navigation, and Volume/Mute toggling powered by native HTML5 Audio API.</li>
-        <li><b>Interactive Playlist System:</b> Real-time dynamic bookmarking feature allowing users to add, remove, and manage personal playlists seamlessly.</li>
+        <li><b>Interactive Playlist System:</b> Real time dynamic bookmarking feature allowing users to add, remove, and manage personal playlists seamlessly.</li>
         <li><b>Dynamic State & UI Rendering:</b> Built with pure JavaScript DOM manipulation for live track detail updates, album cover rendering, and favorite status toggles.</li>
       </ul>
       <p>
