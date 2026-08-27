@@ -75,7 +75,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 <table>
   <tr>
     <td>
-      <h3>Grid Project — McDonald's Themed Landing Page (Practice Project)</h3>
+      <h3><img src="https://img.shields.io/badge/Fast_Food-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" /> Grid Project — McDonald's Themed Landing Page (Practice Project)</h3>
       <p>A modern, fully responsive Food Ordering Landing Page built as a practice project with pure HTML5 and CSS3, focused on performance and layout precision.</p>
       <ul>
         <li><b>Layout Architecture:</b> Powered by CSS Grid (2D) and Flexbox for seamless scaling across devices.</li>
@@ -93,7 +93,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 <table>
   <tr>
     <td>
-      <h3>To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)</h3>
+      <h3><img src="https://img.shields.io/badge/Task_Manager-E14D2A?style=for-the-badge&logo=todoist&logoColor=white" /> To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)</h3>
       <p>A feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
       <ul>
         <li><b>Data Persistence:</b> Built-in browser <code>localStorage</code> integration to save, load, and retain user tasks seamlessly.</li>
@@ -111,7 +111,7 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 <table>
   <tr>
     <td>
-      <h3>Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)</h3>
+      <h3><img src="https://img.shields.io/badge/Audio_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /> Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)</h3>
       <p>A modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
       <ul>
         <li><b>Custom Audio Engine:</b> Complete playback control including Play/Pause, Seek Bar navigation, and Volume/Mute toggling powered by native HTML5 Audio API.</li>
