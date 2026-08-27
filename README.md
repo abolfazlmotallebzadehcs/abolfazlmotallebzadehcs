@@ -79,7 +79,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
         <img src="https://img.shields.io/badge/Fast_Food-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" /><br />
         Grid Project — McDonald's Themed Landing Page (Practice Project)
       </h3>
-      <p>A modern, fully responsive Food Ordering Landing Page built as a practice project with pure HTML5 and CSS3, focused on performance and layout precision.</p>
+      <p>a modern, fully responsive Food Ordering Landing Page built as a practice project with pure HTML5 and CSS3, focused on performance and layout precision.</p>
       <ul>
         <li><b>Layout Architecture:</b> Powered by CSS Grid (2D) and Flexbox for seamless scaling across devices.</li>
         <li><b>Pure CSS UI Mechanics:</b> Features an interactive mobile hamburger navigation implemented with zero JavaScript overhead using native CSS state toggles.</li>
@@ -100,7 +100,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
         <img src="https://img.shields.io/badge/Task_Manager-E14D2A?style=for-the-badge&logo=todoist&logoColor=white" /><br />
         To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)
       </h3>
-      <p>A feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
+      <p>a feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
       <ul>
         <li><b>Data Persistence:</b> Built-in browser <code>localStorage</code> integration to save, load, and retain user tasks seamlessly.</li>
         <li><b>Dynamic Workflows:</b> Interactive modal creation system along with instant filtering capabilities for all, completed, and uncompleted tasks.</li>
@@ -121,7 +121,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
         <img src="https://img.shields.io/badge/Audio_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /><br />
         Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)
       </h3>
-      <p>A modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
+      <p>a modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
       <ul>
         <li><b>Custom Audio Engine:</b> Complete playback control including Play/Pause, Seek Bar navigation, and Volume/Mute toggling powered by native HTML5 Audio API.</li>
         <li><b>Interactive Playlist System:</b> Real-time dynamic bookmarking feature allowing users to add, remove, and manage personal playlists seamlessly.</li>
