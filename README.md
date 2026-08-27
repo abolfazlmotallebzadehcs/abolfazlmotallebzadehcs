@@ -19,7 +19,7 @@
 ---
 
 ### Objective
-I am a **Frontend Developer** focused on building high-performance, pixel-perfect, and accessible web interfaces. Driven by strict programming logic and clean architecture, I am actively seeking a **Frontend Internship** or **Junior Frontend Developer** role to solve real-world problems in high-impact engineering teams.
+I am a **Frontend Developer** focused on building high performance, pixel perfect, and accessible web interfaces. Driven by strict programming logic and clean architecture, I am actively seeking a **Frontend Internship** or **Junior Frontend Developer** role to solve real-world problems in high impact engineering teams.
 
 ---
 
@@ -56,17 +56,17 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 ### Core Competencies & Workflow
 
 * **Semantic Web & Responsive Layouts:**  
-   Writing clean, accessible HTML5 and building responsive, mobile-first layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS**.
+   Writing clean, accessible HTML5 and building responsive, mobile first layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS**.
 * **Core JavaScript & Web Logic:**  
-  Solid foundation in **JavaScript (ES6+)**, asynchronous logic (Promises, Fetch/Async-Await), DOM manipulation, and modular project structures.
+  Solid foundation in **JavaScript (ES6+)**, asynchronous logic (Promises, Fetch/Async Await), DOM manipulation, and modular project structures.
 *  **Maintainable CSS Architecture:**  
-  Applying **BEM methodology** alongside utility-first CSS to keep styling scalable, clean, and structured.
+  Applying **BEM methodology** alongside utility first CSS to keep styling scalable, clean, and structured.
 * **Design-to-Code Precision:**  
   Translating **Figma** and **Adobe XD** design prototypes into accurate, interactive UI components.
 * **Modern Tooling & Workflow:**  
   Managing dependencies with **npm**, using **Vite** for fast local development, and versioning code with **Git/GitHub**.
 * **Active Focus & Growth:**  
-  Deep-diving into **React.js** (component architecture, JSX, props, state management) while building a foundation in **TypeScript** and **Next.js**.
+  Deep diving into **React.js** (component architecture, JSX, props, state management) while building a foundation in **TypeScript** and **Next.js**.
   
 ---
 
@@ -75,12 +75,15 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 <table>
   <tr>
     <td>
-      <h3><img src="https://img.shields.io/badge/Fast_Food-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" /> Grid Project — McDonald's Themed Landing Page (Practice Project)</h3>
+        <img src="https://img.shields.io/badge/Fast_Food-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" />
+      <h3>
+        Grid Project — McDonald's Themed Landing Page (Practice Project)
+      </h3>
       <p>A modern, fully responsive Food Ordering Landing Page built as a practice project with pure HTML5 and CSS3, focused on performance and layout precision.</p>
       <ul>
         <li><b>Layout Architecture:</b> Powered by CSS Grid (2D) and Flexbox for seamless scaling across devices.</li>
         <li><b>Pure CSS UI Mechanics:</b> Features an interactive mobile hamburger navigation implemented with zero JavaScript overhead using native CSS state toggles.</li>
-        <li><b>Design Fidelity:</b> Custom design system alignment with pixel-perfect component execution.</li>
+        <li><b>Design Fidelity:</b> Custom design system alignment with pixel perfect component execution.</li>
       </ul>
       <p>
         <a href="https://abolfazlmotallebzadehcs.github.io/grid-project/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
@@ -93,7 +96,10 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 <table>
   <tr>
     <td>
-      <h3><img src="https://img.shields.io/badge/Task_Manager-E14D2A?style=for-the-badge&logo=todoist&logoColor=white" /> To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)</h3>
+        <img src="https://img.shields.io/badge/Task_Manager-E14D2A?style=for-the-badge&logo=todoist&logoColor=white" />
+      <h3>
+        To-Do List Application — Vanilla JavaScript Task Manager (Practice Project)
+      </h3>
       <p>A feature-rich, responsive task management application built as a practice project using HTML5, modern CSS, and pure JavaScript.</p>
       <ul>
         <li><b>Data Persistence:</b> Built-in browser <code>localStorage</code> integration to save, load, and retain user tasks seamlessly.</li>
@@ -111,7 +117,10 @@ I am a **Frontend Developer** focused on building high-performance, pixel-perfec
 <table>
   <tr>
     <td>
-      <h3><img src="https://img.shields.io/badge/Audio_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /> Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)</h3>
+        <img src="https://img.shields.io/badge/Audio_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+      <h3>
+        Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)
+      </h3>
       <p>A modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
       <ul>
         <li><b>Custom Audio Engine:</b> Complete playback control including Play/Pause, Seek Bar navigation, and Volume/Mute toggling powered by native HTML5 Audio API.</li>
