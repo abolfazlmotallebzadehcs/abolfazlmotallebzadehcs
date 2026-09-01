@@ -1,8 +1,3 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="30"
-         width="30" />, I'm Abolfazl.</h1>  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/main/header.png" alt="Profile Banner"  width = "100%"/>
 </p>  
@@ -51,23 +46,6 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-### Core Competencies & Workflow
-
-* **Semantic Web & Responsive Layouts:**  
-   Writing clean, accessible HTML5 and building responsive, mobile first layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS**.
-* **Core JavaScript & Web Logic:**  
-  Solid foundation in **JavaScript (ES6+)**, asynchronous logic (Promises, Fetch/Async Await), DOM manipulation, and modular project structures.
-*  **Maintainable CSS Architecture:**  
-  Applying **BEM methodology** alongside utility first CSS to keep styling scalable, clean, and structured.
-* **Design to Code Precision:**  
-  Translating **Figma** and **Adobe XD** design prototypes into accurate, interactive UI components.
-* **Modern Tooling & Workflow:**  
-  Managing dependencies with **npm**, using **Vite** for fast local development, and versioning code with **Git/GitHub**.
-* **Active Focus & Growth:**  
-  Deep diving into **React.js** (component architecture, JSX, props, state management) while building a foundation in **TypeScript** and **Next.js**.
-  
 ---
 
 ### Featured Practice Projects
