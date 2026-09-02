@@ -48,6 +48,23 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 
 ---
 
+### Core Competencies & Workflow
+
+* **Semantic Web & Responsive Layouts:**  
+   Writing clean, accessible HTML5 and building responsive, mobile first layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS**.
+* **Core JavaScript & Web Logic:**  
+  Solid foundation in **JavaScript (ES6+)**, asynchronous logic (Promises, Fetch/Async Await), DOM manipulation, and modular project structures.
+*  **Maintainable CSS Architecture:**  
+  Applying **BEM methodology** alongside utility first CSS to keep styling scalable, clean, and structured.
+* **Design to Code Precision:**  
+  Translating **Figma** and **Adobe XD** design prototypes into accurate, interactive UI components.
+* **Modern Tooling & Workflow:**  
+  Managing dependencies with **npm**, using **Vite** for fast local development, and versioning code with **Git/GitHub**.
+* **Active Focus & Growth:**  
+  Deep diving into **React.js** (component architecture, JSX, props, state management) while building a foundation in **TypeScript** and **Next.js**.
+  
+---
+
 ### Featured Practice Projects
 
 <table>
