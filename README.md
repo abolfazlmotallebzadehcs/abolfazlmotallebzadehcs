@@ -20,56 +20,67 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 
 ### Tech Stack & Tools
 
-**Frontend Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-**Build Tools & Package Managers:**  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+  **Frontend Development:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  **Build Tools & Package Managers:**  
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+  
+  **Workflow & Environment:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+  
+  **Design & API Testing:**  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  
+  **Foundational Skills & Logic:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  
+  **Active Focus & Learning:**  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Workflow & Environment:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-
-**Design & API Testing:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Foundational Skills & Logic:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-**Active Focus & Learning:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
+</div>
 
 ---
 
 ### Core Competencies & Workflow
 
-* **Semantic Web & Responsive Layouts:**  
-  Writing clean, accessible HTML5 and building responsive, mobile-first layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS**.
-* **Core JavaScript & Web Logic:**  
-  Solid foundation in **JavaScript (ES6+)**, asynchronous logic (Promises, Fetch/Async-Await), DOM manipulation, and modular project structures.
-* **Maintainable CSS Architecture:**  
-  Applying **BEM methodology** alongside utility-first CSS to keep styling scalable, clean, and structured.
+* **Semantic Web & Modern Styling:**  
+  Crafting accessible, mobile-first HTML5 layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS** for clean stylesheet architecture.
+
+* **Core JavaScript & Async Logic:**  
+  Solid foundation in **JavaScript (ES6+)**, DOM manipulation, and asynchronous data fetching (**AJAX**, **Fetch API**, Promises, Async/Await).
+
+* **React & Component Architecture:**  
+  Building interactive UIs with **React.js**, leveraging modular component architecture, props flow, state management (`useState`, `useEffect`), and derived state patterns.
+
+* **Code Maintainability & Formatting:**  
+  Applying **BEM methodology** for structured CSS alongside **Prettier** for consistent, clean code formatting.
+
 * **Design-to-Code Precision:**  
-  Translating **Figma** and **Adobe XD** design prototypes into pixel-perfect, interactive UI components.
-* **Package Management & Build Tools:**  
-  Managing dependencies efficiently with **npm** and **pnpm**, leveraging **Vite** for fast local development, and maintaining Node environments with **nvm**.
-* **Version Control & Code Quality Workflow:**  
-  Versioning code with **Git/GitHub**, enforcing code quality and formatting with **Prettier**, and testing APIs using **Postman**.
+  Translating **Figma** and **Adobe XD** design prototypes into pixel-perfect, responsive web components.
+
+* **Build Tools & Environment:**  
+  Handling dependencies efficiently via **npm** and **pnpm**, and leveraging **Vite** for optimized development workflows.
+
+* **Version Control & Collaboration:**  
+  Managing source code with **Git/GitHub**, utilizing **GitLens** for deep code history tracking, and testing REST APIs using **Postman**.
+
 * **Active Focus & Growth:**  
-  Deep diving into **React.js** (component architecture, JSX, props, state management) while building a solid foundation in **TypeScript** and **Next.js**.
+  Deepening expertise in **React.js** ecosystem while preparing for **TypeScript** and **Next.js** integration.
   
 ---
 
@@ -88,7 +99,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
         <li><b>Pure CSS UI Mechanics:</b> Features an interactive mobile hamburger navigation implemented with zero JavaScript overhead using native CSS state toggles.</li>
         <li><b>Design Fidelity:</b> Custom design system alignment with pixel-perfect component execution.</li>
       </ul>
-      <p>
+      <p align="center">
         <a href="https://abolfazlmotallebzadehcs.github.io/grid-project/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
         <a href="https://github.com/abolfazlmotallebzadehcs/grid-project"><img src="https://img.shields.io/badge/Source_Code-7aa2f7?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
@@ -109,7 +120,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
         <li><b>Dynamic Workflows:</b> Interactive modal creation system along with instant filtering capabilities for all, completed, and uncompleted tasks.</li>
         <li><b>Task Categorization:</b> Advanced status management supporting multiple priority levels such as default, important, and very important.</li>
       </ul>
-      <p>
+      <p align="center">
         <a href="https://abolfazlmotallebzadehcs.github.io/js-todolist/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
         <a href="https://github.com/abolfazlmotallebzadehcs/js-todolist"><img src="https://img.shields.io/badge/Source_Code-7aa2f7?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
@@ -121,7 +132,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   <tr>
     <td>
       <h3>
-        <img src="https://img.shields.io/badge/Audio_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /><br />
+        <img  src="https://img.shields.io/badge/Audio_Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /><br />
         Music Player Pro — Vanilla JavaScript Audio Player (Practice Project)
       </h3>
       <p>a modern, fully responsive music player web application built as a practice project using pure HTML5, CSS3, and Vanilla JavaScript with a sleek dark UI theme.</p>
@@ -130,7 +141,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
         <li><b>Interactive Playlist System:</b> Real time dynamic bookmarking feature allowing users to add, remove, and manage personal playlists seamlessly.</li>
         <li><b>Dynamic State & UI Rendering:</b> Built with pure JavaScript DOM manipulation for live track detail updates, album cover rendering, and favorite status toggles.</li>
       </ul>
-      <p>
+      <p align="center">
         <a href="https://abolfazlmotallebzadehcs.github.io/js-music-player-pro/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
         <a href="https://github.com/abolfazlmotallebzadehcs/js-music-player-pro"><img src="https://img.shields.io/badge/Source_Code-7aa2f7?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
