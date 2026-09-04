@@ -11,12 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=abolfazlmotallebzadehcs&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
 ### Objective
 I am a **Frontend Developer** focused on building high performance, pixel perfect, and accessible web interfaces. Driven by strict programming logic and clean architecture, I am actively seeking a **Frontend Internship** or **Junior Frontend Developer** role to solve real world problems in high impact engineering teams.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
 
 ### Tech Stack & Tools
 
@@ -39,10 +40,11 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
   
-  **Design & API Testing:**  
+  **Design & DevTools:**  
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
   
   **Foundational Skills & Logic:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -54,7 +56,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
 ### Core Competencies & Workflow
 
@@ -82,7 +84,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 * **Active Focus & Growth:**  
   Deepening expertise in **React.js** ecosystem while preparing for **TypeScript** and **Next.js** integration.
   
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
 ### Featured Practice Projects
 
@@ -149,7 +151,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
 ### THE ACCOUNTABILITY MIRROR (Stats & Activity)
 
@@ -167,7 +169,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
 ### Let's Connect
 If you're looking for a dedicated, fast learning Junior Developer to join your team, or just want to talk about frontend development, let's chat...  
