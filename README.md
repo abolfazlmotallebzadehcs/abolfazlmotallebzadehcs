@@ -75,34 +75,6 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   ![reCAPTCHA](https://img.shields.io/badge/Google_reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
   ![SSO / OAuth2](https://img.shields.io/badge/SSO_/_OAuth2-000000?style=for-the-badge&logo=single-sign-on&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
-
-### Core Competencies & Workflow
-
-* **Semantic Web & Modern Styling:**  
-  Crafting accessible, mobile-first HTML5 layouts using **Flexbox**, **CSS Grid**, and **Tailwind CSS** for clean stylesheet architecture.
-
-* **Core JavaScript & Async Logic:**  
-  Solid foundation in **JavaScript (ES6+)**, DOM manipulation, and asynchronous data fetching (**AJAX**, **Fetch API**, Promises, Async/Await).
-
-* **React & Component Architecture:**  
-  Building interactive UIs with **React.js**, leveraging modular component architecture, props flow, state management (`useState`, `useEffect`), and derived state patterns.
-
-* **Code Maintainability & Formatting:**  
-  Applying **BEM methodology** for structured CSS alongside **Prettier** for consistent, clean code formatting.
-
-* **Design-to-Code Precision:**  
-  Translating **Figma** and **Adobe XD** design prototypes into pixel-perfect, responsive web components.
-
-* **Build Tools & Environment:**  
-  Handling dependencies efficiently via **npm** and **pnpm**, and leveraging **Vite** for optimized development workflows.
-
-* **Version Control & Collaboration:**  
-  Managing source code with **Git/GitHub**, utilizing **GitLens** for deep code history tracking, and testing REST APIs using **Postman**.
-
-* **Active Focus & Growth:**  
-  Deepening expertise in **React.js** ecosystem while preparing for **TypeScript** and **Next.js** integration.
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
