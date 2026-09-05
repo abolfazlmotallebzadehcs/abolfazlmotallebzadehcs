@@ -54,7 +54,10 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
   ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-  <!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)-->
+  <!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![ESLint](https://img.shields.io/badge/ESLint-4B32C6?style=for-the-badge&logo=eslint&logoColor=white)
+  ![RegEx](https://img.shields.io/badge/RegEx-2C2D72?style=for-the-badge&logo=codeforces&logoColor=white)-->
 
 </div>
 
