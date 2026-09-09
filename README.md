@@ -144,6 +144,27 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
       </p>
     </td>
   </tr>
+</table>   
+
+<table>
+  <tr>
+    <td>
+      <h3>
+        <img src="https://img.shields.io/badge/Login_Form-61DAFB?style=for-the-badge&logo=simplelogin&logoColor=black" /><br />
+        React Login Form — Zod Validation & Toast Notifications (Practice Project)
+      </h3>
+      <p>a sleek, modern, and responsive React login interface featuring strict schema validation and interactive notification alerts.</p>
+      <ul>
+        <li><b>Schema Validation:</b> Robust client side validation powered by <code>Zod</code> for real time username constraints and complex password security.</li>
+        <li><b>Dynamic UI Feedback:</b> Seamless user experience using <code>react-hot-toast</code> to display loading states, success confirmations, and clear error messages.</li>
+        <li><b>Custom Styling & Typography:</b> Clean responsive layout built with CSS utilities, custom properties, and embedded Vazir/iOS web fonts.</li>
+      </ul>
+      <p align="center">
+        <a href="https://abolfazlmotallebzadehcs.github.io/react-hot-toast-login/"><img src="https://img.shields.io/badge/Live_Demo-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+        <a href="https://github.com/abolfazlmotallebzadehcs/react-hot-toast-login"><img src="https://img.shields.io/badge/Source_Code-7aa2f7?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
