@@ -178,9 +178,6 @@ If you're looking for a dedicated, fast learning Junior Developer to join your t
   <a href="https://t.me/abolfazlmotallebzadehcs">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discord.com/users/abolfazlmotallebzadehcs">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhYTc3cmlqeHJ4NG1rNjh0NTV5amQ1YWNpOTIyeDR3cXNnNzd4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t6lGyl8QLylqFQJkiA/giphy.gif" width="600" alt="Animation" />
