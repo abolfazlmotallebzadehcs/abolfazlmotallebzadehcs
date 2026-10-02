@@ -153,7 +153,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
-### THE ACCOUNTABILITY MIRROR (Stats & Activity)
+### The Accountability Mirrror
 
 <p align="center">
   <img src="https://github-readme-stats-two-nu.vercel.app/api?username=abolfazlmotallebzadehcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="150"/>
