@@ -165,9 +165,9 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abolfazlmotallebzadehcs&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="400" height="150"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
