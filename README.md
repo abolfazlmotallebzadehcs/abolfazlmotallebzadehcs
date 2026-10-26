@@ -11,10 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=abolfazlmotallebzadehcs&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" /> 
 
 ### Objective
-I am a **Frontend Developer** focused on building high performance, pixel perfect, and accessible web interfaces. Driven by strict programming logic and clean architecture, I am actively seeking a **Frontend Internship** or **Junior Frontend Developer** role to solve real world problems in high impact engineering teams.
+I am a **Frontend Developer** focused on building high performance, pixel perfect, and accessible web interfaces. Driven by strict programming logic and clean architecture, I am actively seeking a **Frontend Internship** or **Junior Frontend Developer** role to solve real world problems in high impact engineering teams. -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
@@ -84,7 +84,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
   ![SSO / OAuth2](https://img.shields.io/badge/SSO_/_OAuth2-000000?style=for-the-badge&logo=single-sign-on&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)-->
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
 ### Featured Practice Projects
 
@@ -149,9 +149,9 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
       </p>
     </td>
   </tr>
-</table>   
+</table>   -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" /> 
 
 ### The Accountability Mirror
 
@@ -167,7 +167,7 @@ I am a **Frontend Developer** focused on building high performance, pixel perfec
 
 <p align="center">
   <img src="https://github.com/abolfazlmotallebzadehcs/abolfazlmotallebzadehcs/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 
